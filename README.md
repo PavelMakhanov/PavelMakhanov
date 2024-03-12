@@ -60,7 +60,8 @@
 
 ## Github Stats  
   
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={PavelMakhanov}&theme={github_dark}
+![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=true&theme=radical)
+
 <br/>  
 
 

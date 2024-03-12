@@ -60,7 +60,7 @@
 
 ## Github Stats  
   
-![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=true&theme=synthwave)
+![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=true&theme=merko)
 
 <br/>  
 

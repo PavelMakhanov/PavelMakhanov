@@ -50,22 +50,6 @@
   
 ![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=True&theme=merko)
 
-<br/>  
 
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 

@@ -60,7 +60,7 @@
 
 ## Github Stats  
   
-![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=true&theme=radical)
+![Cтатистика GitHub](https://github-readme-stats.vercel.app/api?username=PavelMakhanov&show_icons=true&theme=cobalt)
 
 <br/>  
 
